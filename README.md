@@ -15,6 +15,5 @@
       <li>Auto Rename Tag</li>
       <li>Image preview</li>
       <li>Prettier</li>
-      <li>Prettier</li>
     </ul>    
 
