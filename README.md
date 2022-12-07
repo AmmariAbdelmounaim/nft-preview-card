@@ -10,7 +10,7 @@
 </ul>
 <h1>These extensions will make your life easier</h1>
     <ul>
-      <li>Live Server<li>
+      <li>Live Server</li>
       <li>Auto Close Tag</li>
       <li>Auto Rename Tag</li>
       <li>Image preview</li>
