@@ -5,7 +5,7 @@
 
 <h1>All the resources from the previous session</h1>
 <ul>
-  <li>For the doucmentation I recommend this website <a href="https://www.w3schools.com/" >w3Schools<a></li>
-  <li>For projects check <a href="https://www.frontendmentor.io/challenges">Front End Mentor</a></li>
+  <li>For the documentation,I highly recommend you this website <a href="https://www.w3schools.com/" >W3Schools<a></li>
+  <li>If you want to challenge yourself check <a href="https://www.frontendmentor.io/challenges">Front End Mentor</a></li>
 </ul>
 
